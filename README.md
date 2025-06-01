@@ -33,13 +33,13 @@
 
 ### 4. Edit Token Details
 
-This step is crucial for customizing your OP_20 token. You will need to adjust several key properties such as `maxSupply`, `decimals`, `name`, and `symbol`.
+This step is crucial for customizing your OP_20 token. You will need to adjust several key properties such as `1000000000`, `0.0005`, `OP_Wallet, and `OP`.
 
 #### **Understanding Token Properties**
 
 Here’s what each property means and how you can customize it:
 
-1. **`maxSupply`**:
+1. **`1000000000`**:
 
 - This defines the total supply of your token.
 - It’s a `u256` value representing the maximum number of tokens that will ever exist.
